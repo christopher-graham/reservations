@@ -1,0 +1,11 @@
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/bin/Debug/netstandard2.0/reservations.domain.deps.json
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/bin/Debug/netstandard2.0/reservations.domain.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/bin/Debug/netstandard2.0/reservations.domain.pdb
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/bin/Debug/netstandard2.0/System.ComponentModel.Annotations.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/bin/Debug/netstandard2.0/System.ComponentModel.Annotations.xml
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.csproj.CoreCompileInputs.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.AssemblyInfoInputs.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.AssemblyInfo.cs
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.csproj.CopyComplete
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/Debug/netstandard2.0/reservations.domain.pdb

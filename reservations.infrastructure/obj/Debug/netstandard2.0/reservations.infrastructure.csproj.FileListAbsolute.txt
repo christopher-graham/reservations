@@ -1,0 +1,8 @@
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netstandard2.0/reservations.infrastructure.deps.json
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netstandard2.0/reservations.infrastructure.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netstandard2.0/reservations.infrastructure.pdb
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netstandard2.0/reservations.infrastructure.csproj.CoreCompileInputs.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netstandard2.0/reservations.infrastructure.AssemblyInfoInputs.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netstandard2.0/reservations.infrastructure.AssemblyInfo.cs
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netstandard2.0/reservations.infrastructure.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netstandard2.0/reservations.infrastructure.pdb
