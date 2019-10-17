@@ -1,0 +1,11 @@
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netcoreapp2.2/reservations.infrastructure.deps.json
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netcoreapp2.2/reservations.infrastructure.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netcoreapp2.2/reservations.infrastructure.pdb
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netcoreapp2.2/reservations.domain.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/bin/Debug/netcoreapp2.2/reservations.domain.pdb
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.csprojAssemblyReference.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.AssemblyInfoInputs.cache
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.AssemblyInfo.cs
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.csproj.CopyComplete
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.dll
+/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/Debug/netcoreapp2.2/reservations.infrastructure.pdb

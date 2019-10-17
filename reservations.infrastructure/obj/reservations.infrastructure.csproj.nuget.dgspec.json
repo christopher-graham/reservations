@@ -4,20 +4,20 @@
     "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj": {
+    "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/reservations.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj",
-        "projectName": "reservations.infrastructure",
-        "projectPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj",
+        "projectUniqueName": "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/reservations.domain.csproj",
+        "projectName": "reservations.domain",
+        "projectPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/reservations.domain.csproj",
         "packagesPath": "/Users/chrissyfmg/.nuget/packages/",
-        "outputPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/",
+        "outputPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/chrissyfmg/.nuget/NuGet/NuGet.Config"
+          "/Users/chrissyfmg/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -47,10 +47,80 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj",
+        "projectName": "reservations.infrastructure",
+        "projectPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/reservations.infrastructure.csproj",
+        "packagesPath": "/Users/chrissyfmg/.nuget/packages/",
+        "outputPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/chrissyfmg/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/reservations.domain.csproj": {
+                "projectPath": "/Users/chrissyfmg/Projects/2019/reservations/reservations.domain/reservations.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

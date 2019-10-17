@@ -22,6 +22,7 @@ namespace reservations.domain
             {
                 
             }
+
             public Room(int number, string name, RoomStatus status, bool smokingAllowed)
             {
                 Number         = number;

@@ -1,23 +1,25 @@
 ﻿<Properties StartupConfiguration="{BACB4103-7CB1-4CB5-886D-36CC9F773C37}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="reservations.domain/Room.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="reservations.infrastructure/Class1.cs">
     <Files>
       <File FileName="reservations.domain/Reservation.cs" Line="11" Column="13" />
-      <File FileName="reservations.domain/Guest.cs" Line="10" Column="1" />
-      <File FileName="reservations.domain/Room.cs" Line="10" Column="14" />
+      <File FileName="reservations.domain/Guest.cs" />
+      <File FileName="reservations.domain/Room.cs" Line="25" Column="1" />
+      <File FileName="reservations.infrastructure/Class1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="reservations" expanded="True">
-            <Node name="reservations.domain" expanded="True">
-              <Node name="Room.cs" selected="True" />
+            <Node name="reservations.infrastructure" expanded="True">
+              <Node name="Class1.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.reservations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.reservations PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.reservations.infrastructure FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
